@@ -1,0 +1,16 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>com.mpobjects.jasperreports.font</groupId>
+	<artifactId>jasperreports-fonts-lato</artifactId>
+	<version>2.0</version>
+	<name>Lato</name>
+	<description>JasperReports Font Package Containing the Lato fonts</description>
+	<url>http://www.latofonts.com/lato-free-fonts/</url>
+	<licenses>
+		<license>
+			<name>SIL OPEN FONT LICENSE Version 1.1</name>
+			<url>http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&amp;id=OFL</url>
+		</license>
+	</licenses>
+</project>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fontFamilies>
+
+	<fontFamily name="Lato">
+		<normal>com/mpobjects/jasperreports/fonts/lato/Lato-Regular.ttf</normal>
+		<bold>com/mpobjects/jasperreports/fonts/lato/Lato-Bold.ttf</bold>
+		<italic>com/mpobjects/jasperreports/fonts/lato/Lato-Italic.ttf</italic>
+		<boldItalic>com/mpobjects/jasperreports/fonts/lato/Lato-BoldItalic.ttf</boldItalic>
+		<pdfEncoding>Identity-H</pdfEncoding>
+		<pdfEmbedded>true</pdfEmbedded>
+		<exportFonts>
+			<export key="net.sf.jasperreports.html">'Lato', Arial, Helvetica, sans-serif</export>
+			<export key="net.sf.jasperreports.xhtml">'Lato', Arial, Helvetica, sans-serif</export>
+		</exportFonts>
+	</fontFamily>
+
+</fontFamilies>
